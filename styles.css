@@ -1,0 +1,72 @@
+button {
+      color:blue;
+      background-color: pink;
+      height : 40px;
+      width : 70px;
+      border : none;
+      border-radius:10px;
+}
+.Name {
+      font-weight: bold;
+      font-size: 30px;
+      margin-top: 10px;
+      margin-bottom: 40px;
+      background-color: rgb(9, 13, 31);
+      color: white;
+      text-align: center;
+      margin-left: 200px;
+      margin-right: 200px;
+      border-radius: 20px;
+      padding-top: 40px;
+      padding-bottom: 10px;
+}
+a {
+      color: rgb(223, 155, 9);
+      margin-left: 400px;
+      font-size: 20px;
+      margin-top: 30px;
+}
+p {
+      color: black;
+      font-weight: bold;
+      font-size: 20px;
+      margin-top: 5px;
+      margin-left: 40px;
+      width: 1500px;
+}
+.profile {
+
+      background-color: rgb(9, 13, 31);
+      height: 200px;
+      border-radius: 15px;
+      
+}
+.left-headings {
+      margin-top: 20px;
+      margin-bottom: 25px;
+      font-size: 25px;
+      color: rgb(223, 155, 9);
+}
+.right-headings {
+      margin-left: 450px;
+      margin-top: 40px;
+      margin-bottom: 25px;
+      font-size: 25px;
+      color: rgb(223, 155, 9);
+}
+.left-text {
+      font-size: 20px;
+      border-top: 0px;
+      border-bottom: 0px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+      margin-top: 1px;
+      margin-bottom: 1px;
+      line-height: 4px;
+      color: rgb(9, 13, 31);
+}
+.line {
+      margin-left: 40px;
+      margin-right: 1200px;
+      margin-top: 25px;
+}
